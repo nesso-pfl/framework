@@ -2,7 +2,7 @@
 # Manual changes might be lost - proceed with caution!
 
 __metadata:
-  version: 5
+  version: 6
   cacheKey: 8
 
 "@ampproject/remapping@npm:^2.1.0":
@@ -4983,10 +4983,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@unocss/reset@npm:^0.25.1":
-  version: 0.25.1
-  resolution: "@unocss/reset@npm:0.25.1"
-  checksum: 0b1820e39650e4b9d3a72ecbfebdeb07b51c2a03e0477121e9304062ac8958c627139246cfa82aae2cca41cc03e56e0b4104a83be42cd4bd17ec47241d3259bb
+"@unocss/reset@npm:^0.26.0":
+  version: 0.26.0
+  resolution: "@unocss/reset@npm:0.26.0"
+  checksum: ee2fb506f8c77cc93c021cf4ff4db413f77d11392c9a513dccca895f37a72459eca891c9a3ca25fc98b81bc22af766c169b0b93f48b5d27179f72ea8132b44fe
   languageName: node
   linkType: hard
 
@@ -5972,7 +5972,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"acorn@npm:^8.0.4, acorn@npm:^8.4.1, acorn@npm:^8.6.0, acorn@npm:^8.7.0":
+"acorn@npm:^8.0.4, acorn@npm:^8.4.1, acorn@npm:^8.5.0, acorn@npm:^8.6.0, acorn@npm:^8.7.0":
   version: 8.7.0
   resolution: "acorn@npm:8.7.0"
   bin:
@@ -15579,7 +15579,7 @@ __metadata:
     "@types/jsdom": ^16
     "@types/node": ^16.11.25
     "@types/object-hash": ^2
-    "@unocss/reset": ^0.25.1
+    "@unocss/reset": ^0.26.0
     esbuild: ^0.14.23
     eslint: ^8.9.0
     eslint-plugin-jsdoc: ^37.9.4
@@ -21124,11 +21124,11 @@ __metadata:
 
 "typescript@patch:typescript@^4.3.4#~builtin<compat/typescript>, typescript@patch:typescript@^4.5.5#~builtin<compat/typescript>":
   version: 4.5.5
-  resolution: "typescript@patch:typescript@npm%3A4.5.5#~builtin<compat/typescript>::version=4.5.5&hash=493e53"
+  resolution: "typescript@patch:typescript@npm%3A4.5.5#~builtin<compat/typescript>::version=4.5.5&hash=bda367"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: c05c318d79c690f101d7ffb34cd6c7d6bbd884d3af9cefe7749ad0cd6be43c7082f098280982ca945dcba23fde34a08fed9602bb26540936baf8c0520727d3ba
+  checksum: 858c61fa63f7274ca4aaaffeced854d550bf416cff6e558c4884041b3311fb662f476f167cf5c9f8680c607239797e26a2ee0bcc6467fbc05bfcb218e1c6c671
   languageName: node
   linkType: hard
 
